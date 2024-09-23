@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
 </head>
@@ -55,7 +55,7 @@
 		</tr>
 	</tbody>
 </table>
-	<p>Больше подробностей на офицальном<a href="https://vk.com/sozvezdie71?z=photo-212797495_457244980%2Fwall-212797495_2169"> сайте</a> </p>
+	<p>Больше подробностей на официальном<a href="https://vk.com/sozvezdie71?z=photo-212797495_457244980%2Fwall-212797495_2169"> сайте</a> </p>
 	<img src="https://steamuserimages-a.akamaihd.net/ugc/2360518176473984278/D50D2B6F79E4F55B84CA6E5A1F7A0954CEAC23C6/" wight=1200 hight=100>
 </body>
 </html>
